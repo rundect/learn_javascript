@@ -1,1 +1,4 @@
-# javascript_for_beginners
+
+## JavaScript для начинающих
+Учебный проект 
+https://stepik.org/course/2223/
